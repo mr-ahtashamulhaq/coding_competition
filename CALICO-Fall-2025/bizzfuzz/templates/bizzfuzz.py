@@ -3,7 +3,6 @@ def solve(W1: str, W2: str) -> str:
     Return the string containing the word you should say
  
     W1: the second-to-last word said 
-    W2: the last word said
     """
     def nTw(n):
         if n % 15 == 0:
