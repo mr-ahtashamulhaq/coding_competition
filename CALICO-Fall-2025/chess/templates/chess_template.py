@@ -6,7 +6,7 @@ def solve(N: int, M: int, K: int, P: list[tuple[str, int, int]]) -> int:
     K: Number of pieces
     P: list of tuples. Each tuple contains (piece type, x position, y position)
     """
-    # YOUR CODE HERE
+
     return 0
 
 
