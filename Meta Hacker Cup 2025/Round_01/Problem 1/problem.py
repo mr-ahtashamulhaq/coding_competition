@@ -10,7 +10,7 @@ def compute(sz, heights):
     return max_diff
 
 
-def run():
+def runner():
     with open('input.txt', 'r') as f:
         data = f.readlines()
     
@@ -36,4 +36,4 @@ def run():
 
 
 if __name__ == "__main__":
-    run()
+    runner()
