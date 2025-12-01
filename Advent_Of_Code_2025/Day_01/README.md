@@ -1,4 +1,3 @@
-```markdown
 # 🎄 Day 1: Secret Entrance 🔐
 
 ## 📖 Problem Description
