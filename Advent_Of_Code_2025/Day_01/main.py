@@ -1,4 +1,4 @@
-with open("1.in", "r") as f:
+with open("input.txt", "r") as f:
     D = f.read()
 
 pos = 50
