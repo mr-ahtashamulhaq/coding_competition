@@ -75,12 +75,8 @@ Every file stands alone. No imports from other problems. No confusing dependenci
 
 ---
 
-## 🧭 Final Notes
+## 🧭 Result of winter 2025-2026
+https://mitit.org/Contest/ViewScoreboard/beginner-25-26
 
-This repo grows as new problems are solved.
-Each one builds a sharper sense of problem-solving, pattern recognition, and algorithmic intuition.
-
-Make yourself comfortable. Explore.
-And if you’re here to learn, enjoy the ride.
 
 ---
