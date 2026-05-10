@@ -2,8 +2,12 @@
 
 ## Problem Statement
 
-![Problem Statement](Problem B Guardian laser.png)
+<img src="Problem B Guardian laser.png" width="100%" />
 
 ## Solution
 
-- File: `guardian-laser.cpp`
+### Language
+C++
+
+### Source File
+`guardian-laser.cpp`
