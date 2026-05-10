@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-<img src="Problem B Guardian laser.png" width="150%" />
+<img src="Problem B Guardian laser.png" width="100%" />
 
 ## Solution
 
