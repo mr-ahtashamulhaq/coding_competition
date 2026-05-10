@@ -4,6 +4,8 @@
 
 <img src="Problem B Guardian laser.png" width="100%" />
 
+---
+
 ## Solution
 
 ### Language
